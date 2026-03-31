@@ -1,6 +1,6 @@
 # 🌞 Solar Brasil - Energia Solar Fotovoltaica
 
-**[🚀 Live Demo: solarbrasil.vercel.app](https://solarbrasil.vercel.app)**
+**[🚀 Live Demo: solarbrasildemo.vercel.app](https://solarbrasildemo.vercel.app)**
 
 > Uma aplicação web moderna e interativa para demonstração de serviços de energia solar fotovoltaica, desenvolvida como projeto de portfólio para uma empresa fictícia de soluções sustentáveis.
 
@@ -336,7 +336,7 @@ CMD ["npm", "start"]
 - **Email**: edu.docxl@gmail.com
 
 ### Para a Empresa Fictícia (Demo)
-- **Site**: solarbrasil.vercel.app
+- **Site**: solarbrasildemo.vercel.app
 - **WhatsApp**: 0800 123 4567
 - **Email**: contato@solarbrasil.com.br
 - Nenhum desses contatos de fato vai te responder, eu acho, Hahaha
